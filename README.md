@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -35,6 +35,8 @@ GIF created with [LiceCap] (https://www.cockos.com/licecap/)
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+It was not hard for me, but it took some time. 
 
 ## License
 
